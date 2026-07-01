@@ -1,0 +1,8 @@
+{
+  "appId": "com.instatenders.inventory",
+  "appName": "Instatenders Inventory",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  }
+}
